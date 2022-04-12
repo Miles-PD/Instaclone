@@ -5,7 +5,7 @@ import 'firebase/compat/auth'
 // import { seedDatabase } from '../seed'
 
 const config = {
-    apiKey: "",
+    apiKey: "AIzaSyCC9kTVDrCRAv5gDMsgtuojPCnRTS5-xCA",
     authDomain: "instaclone-5233b.firebaseapp.com",
     projectId: "instaclone-5233b",
     storageBucket: "instaclone-5233b.appspot.com",
